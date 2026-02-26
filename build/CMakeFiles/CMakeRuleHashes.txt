@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+92f7903fff4e7c9c7f46e2779ad8a617 Basic_Calulator_autogen/EWIEGA46WW/qrc_resources.cpp
+bc948bad8ff3f6fe941ccddbf810df5c CMakeFiles/Basic_Calulator_autogen

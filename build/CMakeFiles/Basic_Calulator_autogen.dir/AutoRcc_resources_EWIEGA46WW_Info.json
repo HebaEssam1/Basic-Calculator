@@ -1,0 +1,23 @@
+{
+	"BUILD_DIR" : "/home/pc349/Brightskies/Basic_Calulator/build/Basic_Calulator_autogen",
+	"CMAKE_BINARY_DIR" : "/home/pc349/Brightskies/Basic_Calulator/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/pc349/Brightskies/Basic_Calulator/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/pc349/Brightskies/Basic_Calulator",
+	"CMAKE_SOURCE_DIR" : "/home/pc349/Brightskies/Basic_Calulator",
+	"INCLUDE_DIR" : "/home/pc349/Brightskies/Basic_Calulator/build/Basic_Calulator_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/pc349/Brightskies/Basic_Calulator/resources/icons/backspace_icon_152694.png",
+		"/home/pc349/Brightskies/Basic_Calulator/resources/icons/Untitled.png"
+	],
+	"LOCK_FILE" : "/home/pc349/Brightskies/Basic_Calulator/build/CMakeFiles/Basic_Calulator_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib/qt6/libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/pc349/Brightskies/Basic_Calulator/build/CMakeFiles/Basic_Calulator_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/pc349/Brightskies/Basic_Calulator/resources.qrc",
+	"VERBOSITY" : 0
+}

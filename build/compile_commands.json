@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/pc349/Brightskies/Basic_Calulator/build",
+  "command": "/usr/bin/c++  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/pc349/Brightskies/Basic_Calulator/build -I/home/pc349/Brightskies/Basic_Calulator -I/home/pc349/Brightskies/Basic_Calulator/build/Basic_Calulator_autogen/include -I/home/pc349/Brightskies/Basic_Calulator/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui    -fPIC -std=gnu++17 -o CMakeFiles/Basic_Calulator.dir/Basic_Calulator_autogen/mocs_compilation.cpp.o -c /home/pc349/Brightskies/Basic_Calulator/build/Basic_Calulator_autogen/mocs_compilation.cpp",
+  "file": "/home/pc349/Brightskies/Basic_Calulator/build/Basic_Calulator_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/pc349/Brightskies/Basic_Calulator/build",
+  "command": "/usr/bin/c++  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/pc349/Brightskies/Basic_Calulator/build -I/home/pc349/Brightskies/Basic_Calulator -I/home/pc349/Brightskies/Basic_Calulator/build/Basic_Calulator_autogen/include -I/home/pc349/Brightskies/Basic_Calulator/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui    -fPIC -std=gnu++17 -o CMakeFiles/Basic_Calulator.dir/src/main.cpp.o -c /home/pc349/Brightskies/Basic_Calulator/src/main.cpp",
+  "file": "/home/pc349/Brightskies/Basic_Calulator/src/main.cpp"
+},
+{
+  "directory": "/home/pc349/Brightskies/Basic_Calulator/build",
+  "command": "/usr/bin/c++  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/pc349/Brightskies/Basic_Calulator/build -I/home/pc349/Brightskies/Basic_Calulator -I/home/pc349/Brightskies/Basic_Calulator/build/Basic_Calulator_autogen/include -I/home/pc349/Brightskies/Basic_Calulator/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui    -fPIC -std=gnu++17 -o CMakeFiles/Basic_Calulator.dir/src/controller/CalculatorController.cpp.o -c /home/pc349/Brightskies/Basic_Calulator/src/controller/CalculatorController.cpp",
+  "file": "/home/pc349/Brightskies/Basic_Calulator/src/controller/CalculatorController.cpp"
+},
+{
+  "directory": "/home/pc349/Brightskies/Basic_Calulator/build",
+  "command": "/usr/bin/c++  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/pc349/Brightskies/Basic_Calulator/build -I/home/pc349/Brightskies/Basic_Calulator -I/home/pc349/Brightskies/Basic_Calulator/build/Basic_Calulator_autogen/include -I/home/pc349/Brightskies/Basic_Calulator/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui    -fPIC -std=gnu++17 -o CMakeFiles/Basic_Calulator.dir/src/model/expression.cpp.o -c /home/pc349/Brightskies/Basic_Calulator/src/model/expression.cpp",
+  "file": "/home/pc349/Brightskies/Basic_Calulator/src/model/expression.cpp"
+},
+{
+  "directory": "/home/pc349/Brightskies/Basic_Calulator/build",
+  "command": "/usr/bin/c++  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/pc349/Brightskies/Basic_Calulator/build -I/home/pc349/Brightskies/Basic_Calulator -I/home/pc349/Brightskies/Basic_Calulator/build/Basic_Calulator_autogen/include -I/home/pc349/Brightskies/Basic_Calulator/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui    -fPIC -std=gnu++17 -o CMakeFiles/Basic_Calulator.dir/src/view/mainwindow.cpp.o -c /home/pc349/Brightskies/Basic_Calulator/src/view/mainwindow.cpp",
+  "file": "/home/pc349/Brightskies/Basic_Calulator/src/view/mainwindow.cpp"
+},
+{
+  "directory": "/home/pc349/Brightskies/Basic_Calulator/build",
+  "command": "/usr/bin/c++  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/pc349/Brightskies/Basic_Calulator/build -I/home/pc349/Brightskies/Basic_Calulator -I/home/pc349/Brightskies/Basic_Calulator/build/Basic_Calulator_autogen/include -I/home/pc349/Brightskies/Basic_Calulator/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui    -fPIC -std=gnu++17 -o CMakeFiles/Basic_Calulator.dir/Basic_Calulator_autogen/EWIEGA46WW/qrc_resources.cpp.o -c /home/pc349/Brightskies/Basic_Calulator/build/Basic_Calulator_autogen/EWIEGA46WW/qrc_resources.cpp",
+  "file": "/home/pc349/Brightskies/Basic_Calulator/build/Basic_Calulator_autogen/EWIEGA46WW/qrc_resources.cpp"
+}
+]
